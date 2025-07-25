@@ -1,7 +1,7 @@
 1 {
        "popups": [
          {
-           "id": "welcome_message_1",
+           "id": "welcome_message_2",
            "type": "info",
            "title": "Welcome to ArborApp!",
            "message": "We've added new features and improved performance. Check out the latest updates!",
