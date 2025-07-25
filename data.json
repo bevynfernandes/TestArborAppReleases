@@ -1,32 +1,4 @@
 {
-  "popups": [
-    {
-      "id": "welcome_message_1",
-      "type": "info",
-      "title": "Welcome to ArborApp!",
-      "message": "We've added new features and improved performance. Check out the latest updates!",
-      "action_text": "Learn More",
-      "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
-      "skippable": true
-    },
-    {
-      "id": "important_notice_2",
-      "type": "warning",
-      "title": "Important Notice",
-      "message": "Our servers will undergo maintenance on July 26th, 2025, from 2 AM to 4 AM UTC. Expect temporary service interruptions.",
-      "action_text": null,
-      "action_url": null,
-      "skippable": true
-    },
-    {
-      "id": "critical_update_required",
-      "type": "critical",
-      "title": "Critical Update Available",
-      "message": "A critical security update is available. Please update your app immediately to continue using all features.",
-      "action_text": "Update Now",
-      "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
-      "skippable": false
-    }
-  ],
+  "popups": [],
   "incompatible_versions": []
 }
