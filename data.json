@@ -1,0 +1,14 @@
+{
+  "popups": [
+    {
+      "id": "welcome_message_1",
+      "type": "info",
+      "title": "Welcome to ArborApp!",
+      "message": "We've added new features and improved performance. Check out the latest updates!",
+      "action_text": "Learn More",
+      "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
+      "skippable": true
+    }
+  ],
+  "incompatible_versions": []
+}
