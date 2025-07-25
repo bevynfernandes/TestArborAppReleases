@@ -8,7 +8,36 @@
       "action_text": "Learn More",
       "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
       "skippable": true
+    },
+    {
+      "id": "important_notice_2",
+      "type": "warning",
+      "title": "Important Notice",
+      "message": "Our servers will undergo maintenance on July 26th, 2025, from 2 AM to 4 AM UTC. Expect temporary service interruptions.",
+      "action_text": null,
+      "action_url": null,
+      "skippable": true
+    },
+    {
+      "id": "critical_update_required",
+      "type": "critical",
+      "title": "Critical Update Available",
+      "message": "A critical security update is available. Please update your app immediately to continue using all features.",
+      "action_text": "Update Now",
+      "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
+      "skippable": false
     }
   ],
-  "incompatible_versions": []
+  "incompatible_versions": [
+    {
+      "min_version_code": 1,
+      "max_version_code": 3,
+      "message": "Versions 1, 2, and 3 of ArborApp are no longer compatible with the current Arbor API. Please update to the latest version."
+    },
+    {
+      "min_version_code": 5,
+      "max_version_code": 5,
+      "message": "Version 5 has a critical bug and is no longer supported. Please update."
+    }
+  ]
 }
