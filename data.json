@@ -18,15 +18,7 @@
       "action_url": null,
       "skippable": true
     },
-    {
-      "id": "critical_update_required",
-      "type": "critical",
-      "title": "Critical Update Available",
-      "message": "A critical security update is available. Please update your app immediately to continue using all features.",
-      "action_text": "Update Now",
-      "action_url": "https://github.com/bevynfernandes/ArborAppReleases/releases/latest",
-      "skippable": false
-    }
+    
   ],
   "incompatible_versions": [
     {
