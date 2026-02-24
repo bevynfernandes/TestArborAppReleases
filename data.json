@@ -1,4 +1,12 @@
 {
-  "popups": [],
+  "popups": [
+    "id": "popup_1",
+    "type": "info",
+    "title": "New Feature",
+    "message": "Check out Test Repo!",
+    "action_text": "Learn More",
+    "action_url": "https://github.com/bevynfernandes/TestArborAppReleases",
+    "skippable": true    
+  ],
   "incompatible_versions": []
 }
